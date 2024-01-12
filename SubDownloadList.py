@@ -22,7 +22,7 @@ reddit = praw.Reddit(client_id=client_id,
 
 POST_SEARCH_AMOUNT = 5  # Number of posts to search
 
-# Function to create a directory if it doesn't exist
+# Function to create a directory if incase it doesnt exist 
 def create_folder(directory):
     if not os.path.exists(directory):
         os.makedirs(directory)
