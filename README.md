@@ -3,7 +3,7 @@
 ## Overview 📜
 This project is a Python script that scrapes images from specified subreddits using Reddit's API. Perfect for gathering inspiration or exploring different topics through images!
 
-## Setup ⚙️
+## Setupfor it  ⚙️
 
 1. **Install Python and Pip 🐍**.
    - Make sure you have Python installed on your machine. You can download it from [Python's official website](https://www.python.org/downloads/).
